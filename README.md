@@ -2,7 +2,6 @@
 
 ## https://app.netlify.com/sites/dazzling-leavitt-363b42/settings/general
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
 
 ### Bonus - E-mail notifications
 
